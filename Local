@@ -1,0 +1,12 @@
+minecraft-dragon-egg-transfer/
+├── data/
+    ├── dragon_egg_transfer/
+    │   ├── advancements/
+    │   ├── functions/
+    │       ├── main.mcfunction
+    │       ├── give_egg.mcfunction
+    │       └── death_event.mcfunction
+    └── minecraft/
+        ├── tags/
+            └── functions/
+                └── tick.json
